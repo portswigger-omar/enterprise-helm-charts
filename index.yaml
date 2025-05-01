@@ -24,5 +24,5 @@ entries:
     type: application
     urls:
     - https://portswigger-omar.github.io/enterprise-helm-charts/burp-suite-enterprise-edition-2025.3.1.tgz
-    version: 2025.3.1
+    version: 2025.3.2
 generated: "2025-05-01T14:03:15.834179+01:00"
