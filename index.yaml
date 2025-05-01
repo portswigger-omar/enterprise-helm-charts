@@ -14,6 +14,7 @@ entries:
     - dast
     - security
     - web
+    - vibes
     maintainers:
     - email: hello@portswigger.net
       name: PortSwigger
